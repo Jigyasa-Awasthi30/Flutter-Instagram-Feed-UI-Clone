@@ -133,7 +133,7 @@ This approach allows demonstration of loading states and pagination without requ
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/flutter-instagram-feed-clone.git
+git clone https://github.com/Jigyasa-Awasthi30/Flutter-Instagram-Feed-UI-Clone.git
 ```
 
 Navigate to the project directory
