@@ -202,5 +202,19 @@ Potential improvements include:
 * Dark mode support
 
 ---
+## Recruiter Note
+
+This project is a Flutter-based Instagram feed clone focused on **UI accuracy, smooth interactions, and performance optimization**.
+
+It highlights:
+
+* Clean and scalable architecture
+* Efficient state management using Provider
+* Advanced UI features like carousel, pinch-to-zoom, and infinite scrolling
+
+A mock data layer is used to emphasize **frontend engineering, loading states, and user experience design**.
+
+This project demonstrates strong capability in **Flutter development, UI engineering, and building production-ready mobile interfaces**.
+
 
 
