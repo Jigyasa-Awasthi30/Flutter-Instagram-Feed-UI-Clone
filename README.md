@@ -216,5 +216,17 @@ A mock data layer is used to emphasize **frontend engineering, loading states, a
 
 This project demonstrates strong capability in **Flutter development, UI engineering, and building production-ready mobile interfaces**.
 
+## Contributor Note
+
+Contributions are welcome to improve features, performance, and overall user experience.
+
+You can contribute by:
+
+* Enhancing UI/UX or adding new features
+* Improving code structure and optimization
+* Fixing bugs or performance issues
+* Adding documentation or test cases
+
+Please follow clean coding practices and maintain the existing project structure while contributing.
 
 
